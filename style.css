@@ -1,0 +1,17 @@
+#body{
+    background-image: radial-gradient(red, yellow, green);
+
+}
+
+#header_div{
+    background-color: blue;
+    color: turquoise;
+    font-family: 'Silkscreen', cursive;
+}
+
+p{
+    font-family: 'Silkscreen', cursive;
+    font-weight: 200;
+    letter-spacing: 2px;
+    font-size: large;
+}
